@@ -1,0 +1,2 @@
+# dubbotest
+用Idea创建一个maven项目,利用zookeeper测试dubbo框架
